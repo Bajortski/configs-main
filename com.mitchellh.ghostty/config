@@ -1,0 +1,34 @@
+# This is the configuration file for Ghostty.
+
+theme = gruvbox-material-hard-dark
+
+mouse-hide-while-typing = true
+
+# custom styling
+background-opacity = .93
+
+unfocused-split-opacity = .95
+
+## ghostty opens maximized
+maximize = true
+
+## Title
+title = "Ghostty"
+
+focus-follows-mouse = true
+
+quit-after-last-window-closed = true
+
+macos-titlebar-style = tabs
+
+macos-titlebar-proxy-icon = hidden
+
+macos-icon = glass
+
+auto-update = download
+
+auto-update-channel = tip
+
+font-family = unifont
+
+font-size = 18
